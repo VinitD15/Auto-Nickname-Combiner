@@ -27,6 +27,7 @@ It helps users explore string manipulation, randomness, and user input while gen
    ```bash
    pip install colorama
 5. Run the program:
+   ```bash
     python nickname_combiner.py
 
 ## Concepts Used
@@ -38,4 +39,5 @@ It helps users explore string manipulation, randomness, and user input while gen
 
 Output:
 
-![image_alt](https://github.com/VinitD15/Festival-Reminder-Bot/blob/main/Festival%20bot.png?raw=true)
+
+![image_alt](https://github.com/VinitD15/Auto-Nickname-Combiner/blob/main/Screenshot%202025-11-05%20144926.png?raw=true)
