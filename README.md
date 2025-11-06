@@ -39,5 +39,7 @@ It helps users explore string manipulation, randomness, and user input while gen
 
 Output:
 
+![image_alt](https://github.com/VinitD15/Auto-Nickname-Combiner/blob/main/Screenshot%202025-11-06%20151756.png?raw=true)
 
 ![image_alt](https://github.com/VinitD15/Auto-Nickname-Combiner/blob/main/Screenshot%202025-11-05%20144926.png?raw=true)
+
